@@ -16,6 +16,7 @@ For projects 1, 2, and 3 you will want to use either HardwareSimulator.bat(Windo
 
 ## Folder Structure
 This repo is fairly simple as far as folder structures go
+```
 ./course-solutions
   /project01
     *.hdl
@@ -23,6 +24,7 @@ This repo is fairly simple as far as folder structures go
     *.hdl
   /project03
     *.hdl
+```
 
 ## Contributing
 This repo is just for my solutions for Nand2Tetris, no contributing.
